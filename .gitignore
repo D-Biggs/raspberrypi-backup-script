@@ -1,0 +1,14 @@
+# Logs
+*.log
+
+# Backup destinations (don’t commit actual backups!)
+/mnt/backup/
+/backups/
+
+# Temporary files
+*.swp
+*.tmp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
